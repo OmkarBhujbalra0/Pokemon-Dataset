@@ -30,6 +30,8 @@ The following Dataset contains
 
 - Game strategy analysis
 
+### Dataset Link: https://www.kaggle.com/datasets/omkarbhujbalrao/pokemon-dataset-gen-1-9
+
 ## Note
 This dataset was extracted from PokéAPI and cleaned for analysis purposes. PokéAPI is an educational API and all credit goes to them for providing the data.
 https://pokeapi.co/
